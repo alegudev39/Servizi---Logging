@@ -1,0 +1,10 @@
+myCustomVarTree:
+  intA: 2
+  intB: 8
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+logging.level:
+    root: info
+    com.example.Logging.services: debug
